@@ -1,0 +1,5 @@
+# dataset and model related files
+
+*.jpg
+*.zip
+*.pth
