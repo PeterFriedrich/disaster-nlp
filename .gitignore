@@ -1,5 +1,5 @@
 # dataset and model related files
-
+*.csv
 *.jpg
 *.zip
 *.pth

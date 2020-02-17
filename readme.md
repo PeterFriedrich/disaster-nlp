@@ -6,6 +6,6 @@ TODO:
 
 1. Apply the basic fastai NLP techniques
 
-2. Possibly create an ensemble?
+2. Possibly create an ensemble? (Grab production ml tips)
 
 
